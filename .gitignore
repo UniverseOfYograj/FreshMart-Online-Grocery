@@ -1,0 +1,23 @@
+# Build / compiled files
+build/
+bin/
+target/
+*.class
+
+# IDE-specific user files
+.idea/
+.vscode/
+
+# Local configuration / secrets
+.env
+*.env
+application-local.properties
+db.properties
+config.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
